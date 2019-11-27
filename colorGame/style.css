@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    margin: 0;
+    border: 0;
+
+}
+
+h1{
+    text-align: center;
+    background-color: steelblue;
+    font-size: 1.5em;
+    line-height: 1.7em;
+    color: floralwhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    margin: 0;
+}
+
+button{
+    border: none;
+    background: none;
+}
+
+.stripe{
+    background-color: floralwhite;
+    color: steelblue;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#container{
+    margin: 20px auto;
+	max-width: 600px;
+}
+.square{
+    background-color: purple;
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    padding-bottom: 30%;
+    border-radius: 15%
+}
